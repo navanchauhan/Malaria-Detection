@@ -26,5 +26,5 @@ The dataset used is from the Makerere University, Uganda. Citation as written on
 
 * J.A. Quinn, A. Andama, I. Munabi, F.N. Kiwanuka. Automated Blood Smear Analysis for Mobile Malaria Diagnosis. Chapter in Mobile Point-of-Care Monitors and Diagnostic Device Design, eds. W. Karlen and K. Iniewski, CRC Press, 2014.
 
-*No code was used from the above two papers*
+*No code was used from the above two papers.*
 
